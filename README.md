@@ -12,4 +12,4 @@ An ESP32-powered desktop weather companion that fetches real-time meteorological
 ## 📂 Project Structure & Quick Links
 
 * 💻 [View Source Code](weather.ino) — Click here to open the main ESP32 Arduino sketch, WiFi connectivity, and display logic directly.
-* 🖼️ [Project real life application](Mini_weather_hub_real_aplication.jpeg) — Open a high-quality photograph of the complete application running live on a desk.
+* 🖼️ [Project real life application](images/Mini_weather_hub_real_aplication.jpeg) — Open a high-quality photograph of the complete application running live on a desk.
