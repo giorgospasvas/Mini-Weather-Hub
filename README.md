@@ -1,4 +1,4 @@
-# Weather Desk Buddy
+# Mini-Weather-Hub
 
 An ESP32-powered desktop weather companion that fetches real-time meteorological data using the Open-Meteo API and displays live conditions, temperature, humidity, and wind speed on a 7-pin SPI OLED screen.
 
